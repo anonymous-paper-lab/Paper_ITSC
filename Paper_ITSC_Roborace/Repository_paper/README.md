@@ -107,15 +107,3 @@ This repository provides:
 - The hybrid controller configurations evaluated in the paper  
 
 The purpose is to enable independent inspection of the algorithms, the neural model structure, and the experimental methodology.
-
----
-
-## 6. Citation
-
-If you use this repository or build upon this work, please cite:
-
----
-
-## 7. License
-
-This repository is released under an open-source license (to be specified).
