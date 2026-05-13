@@ -184,7 +184,6 @@ For example:
 
 indicates a lookahead distance dynamically varying between **1.1 m and 1.7 m** along the track.
 
-
 ---
 
 ## 7. Python Environment and Dependencies
@@ -208,25 +207,6 @@ Install the required Python packages for this project:
 ```bash
 pip install -r requirements.txt
 ```
-
-### Installing nnodely
-
-The nnodely package can be installed directly from PyPI:
-
-```bash
-pip install nnodely
-```
-
-Alternatively, it can be installed from source:
-
-```bash
-git clone https://github.com/tonegas/nnodely.git
-cd nnodely
-pip install -r requirements.txt
-pip install . 
-```
-
-
 ---
 
 ## 8. Experimental Deployment
